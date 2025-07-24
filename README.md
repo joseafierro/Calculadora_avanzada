@@ -22,7 +22,7 @@ Esta es una aplicación de calculadora desarrollada con **Python** y **Tkinter**
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/Hybridge-Calculator.git
+git clone https://github.com/joseafierro/Hybridge-Calculator.git
 cd Hybridge-Calculator
 ```
 
@@ -47,8 +47,7 @@ python calculadora_tkinter_avanzada.py
 
 ## 📬 Créditos
 
-Desarrollado por [Tu Nombre].
+Desarrollado por Jose A Fierro.
 
 ---
-
-¡Comparte tu versión y mejora esta calculadora con más funciones!
+Exito!
