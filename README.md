@@ -16,7 +16,7 @@ Esta es una aplicación de calculadora desarrollada con **Python** y **Tkinter**
 
 ## 🖼️ Captura de pantalla
 
-<img src="preview.png" alt="Calculadora GUI" width="300">
+<img width="503" height="666" alt="image" src="https://github.com/user-attachments/assets/8893587c-f00a-4d5d-b69e-6a31c552d5e8" />
 
 ## ▶️ Cómo ejecutar
 
